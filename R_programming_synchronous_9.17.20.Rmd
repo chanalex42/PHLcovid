@@ -1,6 +1,6 @@
 ---
 title: 'Sep 17 Synchronous Session'
-author: 'Data Science for Biomedical Informatics (BMIN503/EPID600)'
+author: 'Data Science for Biomedical Informatics (BMIN503/EPID600)' 
 output: 
   html_document:
     theme: cerulean
